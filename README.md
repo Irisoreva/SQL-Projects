@@ -1,1 +1,3 @@
-# SQL-Projects
+### SQL-Projects
+
+This repository holds all my sql projects
