@@ -1,0 +1,5 @@
+-- 1. How many unique users exist in the logs dataset?
+select count(distinct id)
+from health.user_logs
+
+--2.
